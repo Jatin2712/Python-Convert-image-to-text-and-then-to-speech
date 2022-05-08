@@ -27,23 +27,23 @@ For getting the image sequences, frames are cut at regular interval from the vid
 
 * Install os package : `pip install os`
 ## Examples
-![Example-1](./uploads/text1.png)
-![Example-1](./uploads/speech1.mp3)
+![Example-1](./Uploads/text1.png)
+![Example-1](./Uploads/speech1.mp3)
 
 
 ----------------------------------------------------------------------------
 
-![Example-2](./uploads/text2.png)
-![Example-2](./uploads/speech2.mp3)
+![Example-2](./Uploads/text2.png)
+![Example-2](./Uploads/speech2.mp3)
 
 ----------------------------------------------------------------------------
 
-![Example-3](./uploads/text3.png)
-![Example-3](./uploads/speech3.mp3)
+![Example-3](./Uploads/text3.png)
+![Example-3](./Uploads/speech3.mp3)
 
 ----------------------------------------------------------------------------
 
-![Example-4](./uploads/text4.png)
-![Example-4](./uploads/speech4.mp3)
+![Example-4](./Uploads/text4.png)
+![Example-4](./Uploads/speech4.mp3)
 
 ----------------------------------------------------------------------------
