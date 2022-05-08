@@ -29,25 +29,31 @@ For getting the image sequences, frames are cut at regular interval from the vid
 ## Examples
 ![Example-1](./Uploads/text1.png)
 
-![Example-1](./Uploads/speech1.mp4)
+https://user-images.githubusercontent.com/58298647/167299234-0edb71b2-ae2c-4c63-bfd0-433e92147b66.mp4
+
 
 
 ----------------------------------------------------------------------------
 
 ![Example-2](./Uploads/text2.png)
 
-![Example-2](./Uploads/speech2.mp4)
+https://user-images.githubusercontent.com/58298647/167299239-785ef458-182b-4d14-9c79-91dab2021e28.mp4
+
 
 ----------------------------------------------------------------------------
 
 ![Example-3](./Uploads/text3.png)
 
-![Example-3](./Uploads/speech3.mp4)
+https://user-images.githubusercontent.com/58298647/167299247-491fab2c-a824-4027-8a13-2af937d1396f.mp4
+
+
 
 ----------------------------------------------------------------------------
 
 ![Example-4](./Uploads/text4.png)
 
-![Example-4](./Uploads/speech4.mp4)
+https://user-images.githubusercontent.com/58298647/167299256-6ed8277c-2563-477e-9384-3265158f03d1.mp4
+
+
 
 ----------------------------------------------------------------------------
